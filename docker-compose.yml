@@ -1,0 +1,26 @@
+version: '3.7'
+
+services:
+  api1:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    expose: 
+      - 3000
+    networks:
+      - traefik
+    env_file:
+      - .prod.env
+    labels:
+      - "traefik.enable=true"    
+      - "traefik.http.routers.noway_current_nowaycom.rule=Host(`mitspieler.noway4u.com`)"
+      - "traefik.http.routers.noway_current_nowaycom.entrypoints=websecure"
+      - "traefik.http.services.noway_current_nowaycom.loadbalancer.server.port=3000"
+      - "traefik.http.routers.noway_current_nowaycom.service=noway_current_nowaycom"
+      - "traefik.http.routers.noway_current_nowaycom.tls.certresolver=leresolver"
+
+
+networks: 
+  traefik:
+    external:
+      name: traefik_traefik-proxy

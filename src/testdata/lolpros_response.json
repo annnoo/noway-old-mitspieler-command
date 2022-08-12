@@ -1,0 +1,397 @@
+{
+  "gameId": 5195259454,
+  "gameType": "MATCHED_GAME",
+  "gameStartTime": 1617730992565,
+  "mapId": 11,
+  "gameLength": 1462,
+  "platformId": "EUW1",
+  "gameMode": "CLASSIC",
+  "bannedChampions": [
+    { "pickTurn": 1, "championId": 412, "teamId": 100, "staticData": null },
+    { "pickTurn": 2, "championId": 432, "teamId": 100, "staticData": null },
+    { "pickTurn": 3, "championId": 35, "teamId": 100, "staticData": null },
+    { "pickTurn": 4, "championId": 6, "teamId": 100, "staticData": null },
+    { "pickTurn": 5, "championId": 39, "teamId": 100, "staticData": null },
+    { "pickTurn": 6, "championId": 120, "teamId": 200, "staticData": null },
+    { "pickTurn": 7, "championId": 18, "teamId": 200, "staticData": null },
+    { "pickTurn": 8, "championId": 84, "teamId": 200, "staticData": null },
+    { "pickTurn": 9, "championId": 77, "teamId": 200, "staticData": null },
+    { "pickTurn": 10, "championId": 266, "teamId": 200, "staticData": null }
+  ],
+  "gameQueueConfigId": 420,
+  "observers": { "encryptionKey": "Us+m0Bl7ePLKGeBbGKTEqGj/6WHhDWt0" },
+  "participants": [
+    {
+      "championId": 875,
+      "perks": {
+        "perkIds": [8010, 9111, 9105, 8299, 8444, 8446, 5005, 5008, 5003],
+        "perkStyle": 8000,
+        "perkSubStyle": 8400
+      },
+      "profileIconId": 4403,
+      "bot": false,
+      "teamId": 100,
+      "summonerName": "I use crutches",
+      "summonerId": "yvq_msTE3WBC-wvT1TFdFryriu8ZtVvCdJ04Qnp7pnJTi54",
+      "spell1Id": 4,
+      "spell2Id": 12,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": {
+        "uuid": "27087a5f-412d-4da2-b126-fd127c1b1863",
+        "name": "Memento",
+        "slug": "memento",
+        "country": "SE",
+        "position": "20_jungle",
+        "team": {
+          "team": "b1bdd3f1-b7c3-4c74-bdc2-a139f8e1d27e",
+          "name": "Vitality Bee",
+          "slug": "vitality-bee",
+          "tag": "V",
+          "role": "player",
+          "logo": {
+            "public_id": "teams/vitality-bee",
+            "version": "1578165190",
+            "url": "http://res.cloudinary.com/chypriote/image/upload/v1578165190/teams/vitality-bee.png"
+          }
+        }
+      },
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "30_diamond",
+        "rank": 1,
+        "wins": 61,
+        "losses": 48,
+        "leaguePoints": 59,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 5,
+      "perks": {
+        "perkIds": [8010, 9111, 9104, 8299, 8306, 8347, 5005, 5008, 5002],
+        "perkStyle": 8000,
+        "perkSubStyle": 8300
+      },
+      "profileIconId": 22,
+      "bot": false,
+      "teamId": 100,
+      "summonerName": "GoDGiliusV19",
+      "summonerId": "bzK-o-a-Fktrf2Lg6KpMGMZU0YSHwF-kP1BDPPoHqpfxxmQ",
+      "spell1Id": 11,
+      "spell2Id": 4,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": null,
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "10_grandmaster",
+        "rank": 1,
+        "wins": 128,
+        "losses": 99,
+        "leaguePoints": 463,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 145,
+      "perks": {
+        "perkIds": [9923, 8139, 8138, 8135, 8345, 8352, 5005, 5008, 5003],
+        "perkStyle": 8100,
+        "perkSubStyle": 8300
+      },
+      "profileIconId": 4652,
+      "bot": false,
+      "teamId": 100,
+      "summonerName": "Kaor1",
+      "summonerId": "NblsIvH7x7ued84byndb6c27kcXgOhVSldIXil6LNiIJZxg",
+      "spell1Id": 4,
+      "spell2Id": 7,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": {
+        "uuid": "6eef3a10-c08f-459a-b8f0-c1ef68aadd38",
+        "name": "Kaori",
+        "slug": "kaori",
+        "country": "TR",
+        "position": "40_adc",
+        "team": {
+          "team": "98eff29a-47a9-4b18-845b-394b52ca0781",
+          "name": "SuperMassive Esports",
+          "slug": "supermassive-esports",
+          "tag": "SUP",
+          "role": "player",
+          "logo": {
+            "public_id": "teams/papara-supermassive",
+            "version": "1583235972",
+            "url": "http://res.cloudinary.com/chypriote/image/upload/v1583235972/teams/papara-supermassive.png"
+          }
+        }
+      },
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "00_challenger",
+        "rank": 1,
+        "wins": 283,
+        "losses": 246,
+        "leaguePoints": 774,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 12,
+      "perks": {
+        "perkIds": [8230, 8275, 8234, 8232, 8306, 8347, 5007, 5008, 5002],
+        "perkStyle": 8200,
+        "perkSubStyle": 8300
+      },
+      "profileIconId": 4862,
+      "bot": false,
+      "teamId": 100,
+      "summonerName": "YuumiKaynCombo",
+      "summonerId": "4pUGV_u3M46hv7P1GjqASocnLEnS9lEN-4l4wto6h5Z-sQW-jSmROCd46g",
+      "spell1Id": 4,
+      "spell2Id": 14,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": null,
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "10_grandmaster",
+        "rank": 1,
+        "wins": 108,
+        "losses": 58,
+        "leaguePoints": 504,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 517,
+      "perks": {
+        "perkIds": [8010, 8009, 9105, 8299, 8345, 8347, 5007, 5008, 5002],
+        "perkStyle": 8000,
+        "perkSubStyle": 8300
+      },
+      "profileIconId": 1444,
+      "bot": false,
+      "teamId": 100,
+      "summonerName": "Cr\u00c3zY",
+      "summonerId": "mFQBUAJbfIm-8fzpCYS9LTNMgi7FhYwm38EizBPwkslK-AM",
+      "spell1Id": 4,
+      "spell2Id": 12,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": {
+        "uuid": "65db1e87-0b6a-4576-b333-449c7e3a804f",
+        "name": "Crazy",
+        "slug": "crazy",
+        "country": "PL",
+        "position": "20_jungle",
+        "team": null
+      },
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "10_grandmaster",
+        "rank": 1,
+        "wins": 190,
+        "losses": 169,
+        "leaguePoints": 486,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 161,
+      "perks": {
+        "perkIds": [8229, 8224, 8210, 8237, 8345, 8347, 5008, 5008, 5002],
+        "perkStyle": 8200,
+        "perkSubStyle": 8300
+      },
+      "profileIconId": 3164,
+      "bot": false,
+      "teamId": 200,
+      "summonerName": "Rinky",
+      "summonerId": "G9-7K4dVsSYVZ6ZIb5dil_HG_0yxf_yNTEsnnfbD1MbKf5k",
+      "spell1Id": 7,
+      "spell2Id": 4,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": {
+        "uuid": "fabb6a1b-57da-4361-8460-29b69255e376",
+        "name": "Rinky",
+        "slug": "rinky",
+        "country": "FR",
+        "position": "30_mid",
+        "team": null
+      },
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "10_grandmaster",
+        "rank": 1,
+        "wins": 72,
+        "losses": 47,
+        "leaguePoints": 483,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 79,
+      "perks": {
+        "perkIds": [8230, 8226, 8210, 8236, 8304, 8345, 5007, 5008, 5002],
+        "perkStyle": 8200,
+        "perkSubStyle": 8300
+      },
+      "profileIconId": 4078,
+      "bot": false,
+      "teamId": 200,
+      "summonerName": "Babus",
+      "summonerId": "cXoEkasLofTMWPhyul3_v2bV29o4Eo3it40AAHtveItkksHT",
+      "spell1Id": 12,
+      "spell2Id": 4,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": {
+        "uuid": "9d8a14b2-de9f-4f17-a316-9c5a24c54a5f",
+        "name": "Thebausffs",
+        "slug": "thebausffs",
+        "country": "SE",
+        "position": "10_top",
+        "team": null
+      },
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "00_challenger",
+        "rank": 1,
+        "wins": 204,
+        "losses": 147,
+        "leaguePoints": 947,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 43,
+      "perks": {
+        "perkIds": [8229, 8226, 8210, 8236, 8345, 8347, 5008, 5002, 5003],
+        "perkStyle": 8200,
+        "perkSubStyle": 8300
+      },
+      "profileIconId": 506,
+      "bot": false,
+      "teamId": 200,
+      "summonerName": "Prosfair",
+      "summonerId": "7Wf71gIXDCqwViw5E5OmlYva2kMHbsi0cLbzUKu9N0NKJgE",
+      "spell1Id": 14,
+      "spell2Id": 4,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": {
+        "uuid": "ec9f728f-a328-4025-ad9d-c93900cf5c2a",
+        "name": "Prosfair",
+        "slug": "prosfair",
+        "country": "GB",
+        "position": "50_support",
+        "team": {
+          "team": "029a58f8-ccbb-4291-9c0a-aa658ac5dedf",
+          "name": "Team Singularity",
+          "slug": "team-singularity",
+          "tag": "SNG",
+          "role": "player",
+          "logo": {
+            "public_id": "teams/team-singularity",
+            "version": "1580489431",
+            "url": "http://res.cloudinary.com/chypriote/image/upload/v1580489431/teams/team-singularity.png"
+          }
+        }
+      },
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "10_grandmaster",
+        "rank": 1,
+        "wins": 182,
+        "losses": 161,
+        "leaguePoints": 411,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 421,
+      "perks": {
+        "perkIds": [8010, 9111, 9104, 8014, 8275, 8232, 5005, 5008, 5002],
+        "perkStyle": 8000,
+        "perkSubStyle": 8200
+      },
+      "profileIconId": 66,
+      "bot": false,
+      "teamId": 200,
+      "summonerName": "NlKTO NE NUZHEN",
+      "summonerId": "g3tY1htMSjwtLL0YW5K7wo36SmZ4A8Uy-8amikuo8s_5xJ1FcHUgKKbggg",
+      "spell1Id": 11,
+      "spell2Id": 4,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": null,
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "10_grandmaster",
+        "rank": 1,
+        "wins": 75,
+        "losses": 45,
+        "leaguePoints": 322,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    },
+    {
+      "championId": 238,
+      "perks": {
+        "perkIds": [8112, 8139, 8138, 8135, 8275, 8237, 5008, 5008, 5003],
+        "perkStyle": 8100,
+        "perkSubStyle": 8200
+      },
+      "profileIconId": 898,
+      "bot": false,
+      "teamId": 200,
+      "summonerName": "420WeabooSlayer",
+      "summonerId": "_st6i6sJ2gABswhUrnWFJOGXdxjaOPMy7MOSMKM0L3m5yh8",
+      "spell1Id": 4,
+      "spell2Id": 14,
+      "gameCustomizationObjects": [],
+      "staticData": null,
+      "lolpros": {
+        "uuid": "146af112-f332-45c6-b6d5-177b2111247a",
+        "name": "EmceeHeat",
+        "slug": "emceeheat",
+        "country": "SE",
+        "position": "30_mid",
+        "team": null
+      },
+      "ranking": {
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "00_challenger",
+        "rank": 1,
+        "wins": 339,
+        "losses": 311,
+        "leaguePoints": 676,
+        "season": "season_11",
+        "miniSeries": null,
+        "limited": false
+      }
+    }
+  ]
+}
