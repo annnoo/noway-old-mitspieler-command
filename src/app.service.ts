@@ -39,7 +39,7 @@ export class AppService {
 
   async getLolprosInfo() {
     const uuid = this.configService.get('nowayId');
-    const uri = `https://api.lolpros.gg/lol/game/from-player/${uuid}`;
+    const uri = `https://api.lolpros.gg/lol/game/${uuid}`;
     Logger.log('Getting Data from API', this.constructor.name);
     Logger.log(uuid, this.constructor.name);
     const res = await this.http.get<LolprosLiveGameResponse>(uri).toPromise();
